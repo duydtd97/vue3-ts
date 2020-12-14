@@ -13,6 +13,3 @@ We'll also look at some changes between Vue 2 and Vue 3 and some more advanced
 features like lazyloaded routes, dynamic segments, navigation guards, and adding
 a 404 error page.
 
-## Resources
-
-- [Tutorial Video](https://www.youtube.com/watch?v=hY7F7U8qDPA)
