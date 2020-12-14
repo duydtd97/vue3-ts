@@ -1,15 +1,4 @@
-<h1 align="center">
- Cat Facts app using Vue Router and Typescript
-</h1>
-
 <h4 align="center">Building a Web app with Vue Router, Typescript and Vue Composition API</h4>
-
-<br />
-<br />
-
-<p align="center"><a href="https://www.youtube.com/watch?v=hY7F7U8qDPA" target="_blank"><img src="https://img.youtube.com/vi/hY7F7U8qDPA/maxresdefault.jpg" 
-alt="Building a Web app with Vue Router, Typescript and Vue Composition API" width="600" /></a></p>
-<p align="center"><i>Checkout the tutorial for this repo.</i></p>
 
 <br />
 
